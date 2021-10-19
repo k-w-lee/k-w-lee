@@ -3,6 +3,7 @@
 ## I'm a Student, Data Scientist, Full Stack Developer !!
 
 - 🔭 I just launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
+- 🏃 I'm currently working on: MSc Data Science at USM
 - 🌱 I’m currently learning everything related Data Science 🤣
 - 👯 I’m looking to collaborate with other data scientist
 - 🥅 2021 Goals: Become a reputable data scientist and full stack developer
