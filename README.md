@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other data scientist
 - 🥅 2021 Goals: Become a reputable data scientist and full stack developer
 - ⚡ Fun fact: I love old schoold songs, 200 subscribers in YouTube
+- ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
 
 ### Connect with me:
 
@@ -34,11 +35,8 @@
 ### Spoken Languages:
 
 English, Malay, Chinese
-
-<br />
 <br />
 
 ---
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-w-lee)](https://github.com/anuraghazra/github-readme-stats)
