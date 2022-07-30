@@ -1,12 +1,12 @@
 ### Hi there, I'm [Morris Lee](http://www.morris-lee.com/) 👋
 
-## I'm a Student, Data Scientist, Full Stack Developer !!
+## I'm a Data Analyst, Machine Leaarning Implementer, Full Stack Developer !!
 
+- 🖥️ I have contributed to Python Packaging Index. / [PyPi Profile](https://pypi.org/user/morris_lee)
 - 🔭 I just launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
 - 🏃 I'm currently working on: MSc Data Science at USM
 - 🌱 I’m currently learning everything related Data Science 🤣
 - 👯 I’m looking to collaborate with other data scientist
-- 🥅 2021 Goals: Become a reputable data scientist and full stack developer
 - ⚡ Fun fact: I love old schoold songs, 200 subscribers in YouTube
 - ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
 
