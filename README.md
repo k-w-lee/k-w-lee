@@ -7,7 +7,7 @@
 - 🔭 I just launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
 - 🌱 I’m currently learning everything related Data Science 🤣
 - 👯 I’m looking to collaborate with other data scientist
-- ⚡ Fun fact: I love old schoold songs, vegan, and love create things
+- ⚡ Fun fact: I love create new things, old schoold songs, vegetarian
 - ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
 
 ### Connect with me:
