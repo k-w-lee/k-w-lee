@@ -1,6 +1,6 @@
 ### Hi there, I'm [Morris Lee](http://www.morris-lee.com/) 👋
 
-## I'm a Data Analyst, Machine Leaarning Implementer, Full Stack Developer !!
+## I'm a Data Scientist, and a Full Stack Developer !!
 
 - 🏃 I have finished MSc Data Science at USM
 - 🖥️ I have actively contributed to Python Packaging Index: [PyPi Profile](https://pypi.org/user/morris_lee)
