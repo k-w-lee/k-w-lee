@@ -4,8 +4,8 @@
 
 - 🏃 I have finished MSc Data Science at USM
 - 🖥️ I have actively contributed to Python Packaging Index: [PyPi Profile](https://pypi.org/user/morris_lee)
-- 🔭 I just launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
-- 🌱 I’m currently learning everything related Data Science 🤣
+- 🔭 I launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
+- 🌱 I developed my CRM SAAS Website with monthly subscription [DeepDataFusion.com](https://www.deepdatafusion.com/)!
 - 👯 I’m looking to collaborate with other data scientist
 - ⚡ Fun fact: I love create new things, old schoold songs, vegetarian
 - ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
