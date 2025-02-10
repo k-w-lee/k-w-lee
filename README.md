@@ -1,13 +1,10 @@
 ### Hi there, I'm [Morris Lee](http://www.morris-lee.com/) 👋
 
-## I'm a Data Scientist, and a Full Stack Developer !!
+## I'm a Curiosity Explorer
 
-- 🏃 I have finished MSc Data Science at USM
 - 🖥️ I have actively contributed to Python Packaging Index: [PyPi Profile](https://pypi.org/user/morris_lee)
 - 🔭 I launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
 - 🌱 I developed my CRM SAAS Website with monthly subscription [DeepDataFusion.com](https://www.deepdatafusion.com/)!
-- 👯 I’m looking to collaborate with other data scientist
-- ⚡ Fun fact: I love develop new tools, old schoold songs, watch documentaries
 - ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
 
 ### Connect with me:
