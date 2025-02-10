@@ -5,7 +5,7 @@
 - 🖥️ I have actively contributed to Python Packaging Index: [PyPi Profile](https://pypi.org/user/morris_lee)
 - 🔭 I launched my social media website: [SocialHarimau.com](https://www.socialharimau.com/)!
 - 🌱 I developed my CRM SAAS Website with monthly subscription [DeepDataFusion.com](https://www.deepdatafusion.com/)!
-- - 🏢 I'm working as a Data Scientist
+- 🏢 I'm working as a Data Scientist
 - ✨ Other Links: [Deployed Models](http://www.morris-lee.com/), [Portfolios](https://k-w-lee.github.io/morris_lee.github.io/index.html)
 
 ### Connect with me:
